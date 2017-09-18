@@ -1,6 +1,6 @@
 # **Talker Chat**
 
-Talker Chat is an applications that allow multiple clients talk through a chat server. It's implemented using the TCP protocol and also make use of some important pattern in Golang.
+Talker Chat is an applications that allow multiple clients talk through a chat server. It's implemented using the TCP protocol and also makes use of some important pattern in Golang.
 
 ## **Prerequisites**
 
@@ -8,7 +8,7 @@ This application was developed using the version 1.9 of Go, so be aware.
 
 ## **Dependencies**
 
-There aren't any dependencies. This application make use only of the standard libs of Go.
+There aren't any dependencies. This application makes use only of the standard libs of Go.
 
 ## **Running**
 
